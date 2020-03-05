@@ -1,1 +1,0 @@
-# six_handshake_vk
